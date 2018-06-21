@@ -1,0 +1,32 @@
+.nav {
+    background-color: #3D4245;
+    height: 20vh;
+    padding: 20px;
+}
+
+.main-div {
+    display: inline-block;
+    height: 80vh;
+    width: 100%;
+}
+
+.container {
+    background-color: #DADBDC;
+    height: 100%;
+    width: 15%;
+    display: inline-block;
+}
+
+.mid-container {
+    background-color:#F9FAFC;
+    width: 69%;
+    display: inline-block;
+}
+
+.footer {
+    background-color:  #000;
+    height: 100px;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+}
